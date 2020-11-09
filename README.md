@@ -22,3 +22,19 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Penjelasan Project
+nama : Thifal Fadiyah Basar
+NIM : 185150700111018
+
+yang telah dilakukan dalam praktikum ini :
+
+- membuat project bookapp lalu membuat database dengan nama bookapp_lumen.
+- melakukan setup di file .ENV 
+- membuat migration untuk membuat table pada database
+- membuat file seeder dan file model lalu memanggil datanya melalui model dan menjalan code nya
+
+## challenge
+- membuat table dengan nama author yang berisi nama, jenis kelamin dan biography
+- membuat controller yang diisi dengan method store,update, show by id, dan index
+- membuat model untuk mengelola table
+- melakukan update repository 
