@@ -33,7 +33,7 @@ yang telah dilakukan dalam praktikum ini :
 - membuat migration untuk membuat table pada database
 - membuat file seeder dan file model lalu memanggil datanya melalui model dan menjalan code nya
 
-##challenge
+## challenge
 - membuat table dengan nama author yang berisi nama, jenis kelamin dan biography
 - membuat controller yang diisi dengan method store,update, show by id, dan index
 - membuat model untuk mengelola table
